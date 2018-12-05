@@ -1,0 +1,184 @@
+Restaurant_Name,Address,Latitude,Longitude,Cuisines,Aggregate_Rating,Rating_Text,Has_Online_Delivery,Radius,AppName,Time,Phone
+Biryani Kitchen,"FB 11, 1st Floor, Inorbit Mall, EPIP Area, Whitefield, Bangalore",12.9786926,77.7287998,"North Indian, Chinese, Biryani, South Indian",4,Very Good,No,1,Zomato,15,7978808268
+YUMLOK,"Inorbit Mall, G.Floor,  EPIP Area, Whitefield, Bangalore",12.9798026,77.7279949,Street Food,3.9,Good,Yes,1,Zomato,15,8835142206
+Terracotta - Vivanta By Taj,"Vivanta By Taj, ITPB, Whitefield, Bangalore",12.9873169,77.7373843,"Afghani, North Indian, Lucknowi",3.7,Good,No,1,Zomato,15,8849419365
+NH8,"F-21, First Floor, EPIP, Inorbit Mall, Whitefield, Bangalore",12.9791111,77.7287774,Rajasthani,3.7,Good,No,1,Zomato,14,7867860934
+Latitude - Vivanta By Taj,"Vivanta By Taj, ITPB, Whitefield, Bangalore",12.9872285,77.7373843,"North Indian, Fast Food, Asian, Italian",3.6,Good,No,1,Zomato,14,7280252642
+The Square Table,"Level 1, Inorbit Mall, Plot 75, EPIP Area, Whitefield, Bangalore",12.9790502,77.7288892,"North Indian, Maharashtrian, South Indian",3.6,Good,Yes,1,Zomato,14,8802386454
+California Burrito,"Food Court, 1st Floor, Inorbit Mall, 8th Road, EPIP Zone, Whitefield, Bangalore Bengalore, Whitefield",12.9786926,77.7287998,"Mexican, Fast Food",3.6,Good,No,1,Zomato,14,7608236587
+Khaaja Chowk,"Formule 1 Hotel, 4, EPIP Zone, Beside Symphony Teleca Building, Whitefield, Bangalore",12.9862035,77.7325556,North Indian,3.5,Good,Yes,1,Zomato,14,8839161626
+The Chocolate Heaven,"G2-04, Inorbit Mall, EPIP Area, Whitefield, Bangalore",12.9796472,77.7284421,"Fast Food, Bakery, Fast Food, Desserts, Beverages",3.4,Average,Yes,1,Zomato,15,8246732635
+Happy Endings,"Ascendas Park Square, Third Floor, ITPB, Whitefield, Bangalore",12.9870135,77.7365795,"Bakery, Desserts",3.4,Average,No,1,Zomato,15,8892124675
+Caramel - Vivanta by Taj,"Vivanta By Taj, ITPB, Whitefield, Bangalore",12.9872285,77.7373843,"Desserts, Bakery",3.4,Average,No,1,Zomato,14,8405904521
+The Chocolate Room,"4th Floor, Ascendas Park Square Mall, Whitefield, Bangalore",12.987207,77.73684181,"Cafe, Fast Food, Desserts, Bakery",3.3,Average,No,1,Zomato,14,8899921712
+Andhra Kafe,"ITPL main road, opposite prestige shantiniketan, Hoodi village, bangalore, Whitefield, Bangalore",12.988964,77.7264331,Andhra,3.3,Average,No,1,Zomato,14,8926559867
+Y Not Breakfast,"Whitefield, Bangalore",0,0,"North Indian, South Indian, Healthy Food",3.3,Average,No,1,Zomato,14,7706553898
+Delhi Restaurant,"84, Near Itpl Main Gate, Next To Taj Vivanta, Whitefield, Bangalore",12.9870688,77.7377419,"North Indian, Mughlai, Chinese",3.2,Average,Yes,1,Zomato,15,8254484428
+Hotel Alpha,"107/P4, Praveen Transport Complex, Opposite Service Gate C, Pattandur Agrahara, Whitefield, Bangalore",12.9850216,77.7327791,"Biryani, North Indian, Chinese",3.2,Average,Yes,1,Zomato,14,8159718812
+Baba Fattoosh,"Foyer Infinity Apartments, Whitefield, Bangalore",12.9782327,77.7339863,North Indian,3.2,Average,No,1,Zomato,14,7667661703
+Chatpata India,"Food Court, Ascendas Park Square Mall, ITPL Main Road, Whitefield, Bangalore",12.9868581,77.7370266,North Indian,3.2,Average,No,1,Zomato,14,8368938498
+Megha's Lunch-Box,"ITPL Backgate 3, Agrahara, Whitefield, Bangalore",12.9843867,77.7333604,North Indian,3.2,Average,No,1,Zomato,15,8109506429
+Basaveshwara Kanawali,"Abdul Rehman Complex, ITPL Back Gate 3, Pattandur, Agrahara Road, Whitefield, Bangalore",12.9844793,77.7334498,South Indian,3.1,Average,No,1,Zomato,15,7264514908
+Cube Crest Cafe,"Gate 1, Tower 24, Prestige Shantiniketan, ITPL Main Road, Whitefield, Bangalore",12.9890109,77.7265197,"North Indian, Chinese, Fast Food",3.1,Average,No,1,Zomato,14,8550113237
+Foodies Delight,"103/2 Anmol Carlson Court, Next to Prestige White Meadows, Whitefield Main Road, Whitefield, Bangalore",0,0,"Street Food, Fast Food, North Indian",3.1,Average,No,1,Zomato,14,7290863116
+Daily Bread,"Club House, Prestige Shanthiniketan, ITPL Main Road, Whitefield, Bangalore",12.990939,77.7299623,"Bakery, Fast Food, Italian",3,Average,No,1,Zomato,15,8033985454
+Biryani Bowl,"ITPL Basement, ITPL Main Road, Whitefield, Bangalore",12.9872388,77.7372421,"Biryani, Andhra",3,Average,No,1,Zomato,15,8056751586
+BBCUE - Vivanta By Taj,"Vivanta By Taj, ITPB, Whitefield, Bangalore",12.9872285,77.7373843,Fast Food,3,Average,No,1,Zomato,14,8460890209
+Amoeba Sports Bar,"Ascendas Park Square, Third Floor, ITPL, Whitefield, Bangalore",12.9870135,77.7365795,"Fast Food, Chinese",2.9,Average,No,1,Zomato,15,8377132927
+Kreme Delight,"My Break Food Court, ITPL, Whitefield, Bangalore",12.9872429,77.737243,"Bakery, Desserts",2.9,Average,Yes,1,Zomato,14,8096368591
+Au Bon Pain,"G-13, Food Court Area, Sunken Plaza, Tech Park Mall, ITPB, Whitefield Road, Whitefield, Bangalore",12.9872432,77.737242,"Cafe, Bakery",2.9,Average,No,1,Zomato,15,7446315340
+Swasth Express,"Ground Floor, Inorbit Mall, Whitefield, Bangalore",12.9797124,77.7284197,Fast Food,2.9,Average,No,1,Zomato,14,7177507340
+Covai Cafe,"127, Behind ITPL Back Gate 3, Arun Compound, Pattandur Agrahara, Whitefield, Bangalore",12.9843068,77.7335392,South Indian,2.9,Average,No,1,Zomato,15,8849803940
+Cookie Man,"Ground Floor, Inorbit Mall, EPIP Area, Whitefield, Bangalore",12.9796472,77.7284421,Bakery,2.8,Average,No,1,Zomato,15,8040883128
+Grab n Go - Aloft Hotel,"Aloft Hotel, 17C, Sadaramangala Road, Whitefield, Bangalore",12.9904408,77.7330788,"American, Fast Food",2.8,Average,No,1,Zomato,14,7095296144
+Friends Diner,"107/4, Pattandur Agrahara Road, Near ITPL Gate 3, Whitefield, Bangalore",12.98195491,77.7335199,"Continental, Italian, Pizza, Fast Food",2.6,Average,Yes,1,Zomato,14,8183324338
+Mast Kalandar,"4th Floor,  Ascendas Park Square Mall, ITPL Main Road, Whitefield, Bangalore",12.98689826,77.73639992,North Indian,2.3,Poor,No,1,Zomato,14,7966473738
+Krishna Punjabi Restaurant,"107, Pattandur Agrahara, Main Road, Whitefield, Bangalore",12.9823676,77.7336286,North Indian,2.3,Poor,Yes,1,Zomato,14,8441243612
+Indian Tadka,"1st Floor, Inorbit Mall, EPIP Zone, Whitefield, Bangalore",12.9786926,77.7287998,North Indian,2.2,Poor,No,1,Zomato,15,8684513518
+Starnese,"139, Rajapalya, Hoodi - Whitefield Main Road, Opposite Prestige Shantiniketan, Whitefield, Bangalore",0,0,"North Indian, Chinese, South Indian",0,Not rated,No,1,Zomato,15,7348580840
+Cherry on Top,"Balagere, Opposite Hilife Pearl Shell, Whitefield, Bangalore",0,0,"Chinese, Fast Food",0,Not rated,No,1,Zomato,15,8151214145
+Punjabi Tadka,"22, 133, Channasandra Village, Hope Farm, Kadugodi Post, Whitefield, Bangalore",0,0,"North Indian, Chinese",0,Not rated,No,1,Zomato,14,8254196703
+CAD (M) CAD (B),"My Break Food Court, Concourse, ITPL Main Road, Whitefield",0,0,Street Food,0,Not rated,No,1,Zomato,14,8331061635
+Have More,"Pattandur Agrahara Main Road, ITPL Back Gate, Whitefield, Bangalore",12.98447778,77.73326944,"North Indian, Chinese",0,Not rated,No,1,Zomato,14,8731497371
+Faasos,"31/34/35, SJRI Park, EPIP Area, Whitefield, Bangalore",12.9810936,77.7272795,"Fast Food, North Indian",0,Not rated,Yes,1,Zomato,15,7402437109
+Chatpata,"Behind ITPL Gate no 3, Opposite HCL, Whitefield, Bangalore",12.98505833,77.73381111,"Chinese, North Indian",0,Not rated,No,1,Zomato,15,8299402835
+Homemadefoodlovers,"B-Narayanpura,Mahadevpura, Bangalore, Whitefield, Bangalore",0,0,"Bengali, North Indian",0,Not rated,No,1,Zomato,14,8515535556
+Srinidhi Sagar,"966, Rajapalya, Mahadevapura, Whitefield, Bangalore",12.991724,77.7204829,"South Indian, Chinese, North Indian",3.4,Average,No,2,Zomato,15,8670636232
+Breakfast House,"95, EPIP Zone, ITPL Main Road, Whitefield",12.976263,77.726836,"South Indian, North Indian",3.4,Average,No,2,Zomato,14,7093812898
+The Village Restaurant,"Hoodi Circle, Mahadevapura Post, Whitefield, Bangalore",12.9922687,77.7170844,"North Indian, Chinese",3,Average,No,2,Zomato,14,8793424381
+Nethra Hotel,"Hoodi Circle, Whitefield, Bangalore",12.9922388,77.7164584,"North Indian, South Indian",0,Not rated,No,2,Zomato,15,8153957418
+Hotel Annapurna,"Arun Compoound, Opposite HCL, ITPL Main Road, Whitefield, Bangalore",12.9855777,77.7342546,"North Indian, Andhra",0,Not rated,No,2,Zomato,14,7765634348
+Tibbs Frankie,"Prestige Shantinikethan, White Field Road, Whitefield, Bangalore",12.990939,77.7299623,Street Food,0,Not rated,No,2,Zomato,15,8305629026
+Hotel Srinivas Andhra Style,"401, Sai Saddhana Building, Basavanagar Main Road, Whitefield, Bangalore",12.991066,77.7177999,Andhra,0,Not rated,No,2,Zomato,14,7218199733
+Shahi Darbar,"Belthur Gate, Whitefield, Bangalore",0,0,"North Indian, Chinese",0,Not rated,No,2,Zomato,14,7146796537
+Ice Burg Lassi Bar,"Behind ITPB Back Gate 3, Pattandur Agrahara, Whitefield, Bangalore",12.9842818,77.7339416,"Fast Food, Juices",0,Not rated,No,2,Zomato,15,8046636073
+Tiffinmates,"Nallurahalli Circle, Borewell Road, Whitefield, Bangalore",12.9693315,77.7365415,North Indian,0,Not rated,No,2,Zomato,14,8916934653
+SLV Andhra Spice,"495, AKG Colony, Opposite M.V.J College, Whitefield, Bangalore",0,0,Andhra,0,Not rated,No,2,Zomato,15,7380041829
+APNA Hotel,"Near Florence School, BasavannaNagar, Hoodi, Whitefield, Bangalore",12.989906,77.7179438,"North Indian, Hyderabadi",0,Not rated,No,2,Zomato,14,7577589846
+Hotel Khana Khazana,"Shop 10, Dr Complex, Basavanna Nagar, Hoodi Circle, ITPL Main Road, Whitefield",12.99173639,77.71761814,"Chinese, Biryani, Juices",0,Not rated,No,2,Zomato,15,7777944123
+Halftime,"111, Near Ayyappa Swamy Temple, Belthur Road, Kadugodi, Whitefield, Bangalore",0,0,"North Indian, Chinese",0,Not rated,No,2,Zomato,15,8770224920
+Kirti Paradise,"Survey 87, Gear School Road, Opposite Apartment, Bhogenehalli, Hobli Varthur Main Road, Whitefield, Whitefield, Bangalore",0,0,"South Indian, Hyderabadi, Chinese",0,Not rated,No,2,Zomato,15,8538818628
+Hunger Zone,"ECC Road, Whitefield, Bangalore",12.9858216,77.744628,"North Indian, Chinese",0,Not rated,No,2,Zomato,15,7910732647
+Sweet Tooth - Do you have one?,"Prestige Palms, ECC Road, Whitefield, Bangalore",12.981255,77.7434103,"Bakery, Desserts",0,Not rated,No,2,Zomato,14,7796010302
+Food Palace,"Opposite Canara Bank, Kadugodi, Whitefield, Bangalore",0,0,"North Indian, Chinese",0,Not rated,No,2,Zomato,14,7677856148
+Chandrika Tiffins,"Near A1 Fresh Supermarket, Whitefield, Bangalore",0,0,North Indian,0,Not rated,No,2,Zomato,15,7057408874
+Elaichi,"Krishniah Complex, Near Whitefield Post Office, Whitefield, Bangalore",0,0,"North Indian, Bengali, Oriya",0,Not rated,No,2,Zomato,14,8421191850
+Hyderabadi Biryummy House,"95, Opposite Vydehi Hospital, EPIP Area, Whitefield, Bangalore",12.9756796,77.726743,Hyderabadi,0,Not rated,No,2,Zomato,15,8515458925
+Andhra Biryanis,"107,Pattandur Agrahara,Near ITPL Gate, Whitefield, Bangalore",12.9845633,77.7333603,"Andhra, Chinese, North Indian",0,Not rated,No,2,Zomato,14,7714860115
+Friendz Zone,"107/P4 Pattandur Agrahara, Whitefield Road, Whitefield, Bangalore",0,0,"North Indian, Chinese",0,Not rated,No,2,Zomato,15,7008108116
+Royal Biryani,"40, Pattandur Agrahara, ITPL Main Road, Whitefield",12.987045,77.736294,"Biryani, Mughlai",0,Not rated,No,2,Zomato,15,7223403812
+Saha Cabin Bengali Hotel,"1st Main Road, 3rd Cross Pattandur, ITPL Back Gate, Whitefield, Bangalore",0,0,Bengali,0,Not rated,No,2,Zomato,15,8271685562
+A-one Restaurant,"Purushotham Reddy Building, Seetharampalya Main Road, Basavanna Nagar, Hoodi, Whitefield, Bangalore",12.9832561,77.7181946,"South Indian, Chinese",0,Not rated,No,2,Zomato,15,7938504839
+Star Bakery,"R.R Sai Complex, Near Florence School, BasavannaNagar, Hoodi, Whitefield, Bangalore",12.9891859,77.7182024,Bakery,0,Not rated,No,2,Zomato,14,8596779312
+Hotel RK Food,"Seetharampalya, Behind Sap Lab, Basavanna Nagar, Hoodi, Whitefield, Bangalore",12.9825854,77.7177999,"North Indian, South Indian",0,Not rated,No,2,Zomato,14,7754422631
+Zeeshan Restaurant,"Near MVJ College, Channasandra Main Road, Whitefield, Bangalore",0,0,"North Indian, Mughlai, Chinese",0,Not rated,No,2,Zomato,14,8800456847
+Nanda's Dine City,"R.R Sai Complex, Near Florence School, BasavannaNagar, Hoodi, Whitefield, Bangalore",12.9889629,77.7181576,"South Indian, Andhra",0,Not rated,No,2,Zomato,15,8828379785
+Nandhish Upahar,"Opp. Mahaveer Dazzle Apartment, Basavanna Nagar Road, Hoodi, Whitefield, Bangalore",12.988534,77.7184259,"South Indian, Chinese",0,Not rated,No,2,Zomato,14,8496657378
+Cane Hut,"R.R Sai Complex, Near Florence School, BasavannaNagar, Hoodi, Whitefield, Bangalore",12.9889799,77.7185154,"Fast Food, Beverages, Desserts",0,Not rated,No,2,Zomato,15,7192210306
+A-One Restaurant,"Purushotham Reddy Building, Seetharampalya Main Road, Basavanna Nagar, Hoodi, Whitefield, Bangalore",12.9832561,77.7181946,"North Indian, Chinese",0,Not rated,No,2,Zomato,15,7566487604
+Calvin's,"273, Whitefield Main Road, Towards Hope Farm, Whitefield, Bangalore",12.9680143,77.7494551,"Desserts, Italian, Pizza",3.6,Good,No,3,Zomato,15,7529797368
+Citrus Cafe - Lemon Tree Hotel,"Lemon Tree Hotel, 23, EPIP Zone, Near I Gate Company, Whitefield, Bangalore",12.9726459,77.7177552,"North Indian, Continental, South Indian, Asian, Fast Food",3.5,Good,No,3,Zomato,14,7397918676
+Kartik's Mithai Shoppe,"3/4, Near Hope Farm Junction, State Highway 35, Whitefield Main Road, Happy Valley, Whitefield Bangalore, Whitefield, Bangalore",12.97915,77.7514221,"Street Food, Mithai",3.4,Average,No,3,Zomato,15,7529068671
+Mayura Grand,"123, Sai Complex, ITPL Main Road, Kundalahalli, Brookefield, Bangalore",12.9651595,77.7182024,"North Indian, South Indian, Chinese",3.4,Average,No,3,Zomato,14,7018202565
+Chill,"136/137, EPIP Industrial Area, Whitefield, Bangalore",12.9781579,77.7138647,"North Indian, Chinese, Continental, Fast Food",3.3,Average,No,3,Zomato,14,7580384012
+Riya Ande Funda,"211, ITPL Main Road, Kundanahalli Colony, Brookefield, Bangalore",12.9694798,77.7124785,"North Indian, Fast Food",3.1,Average,No,3,Zomato,15,7666270702
+Magic Mushrooms,"SMR Vinay Endeavour, Hoodi Circle, Whitefield, Bangalore Whitefield",12.9928773,77.7150274,Fast Food,3.1,Average,No,3,Zomato,14,7486397617
+Linx - Premier Inn Hotel,"Premier Inn Hotel, 3 A1, Brookefield Main Road, Mahadevpura, Opposite IFB Campus, Whitefield, Bangalore",12.9818057,77.7088561,"North Indian, South Indian, Thai, Chinese, Continental, Fast Food",3,Average,No,3,Zomato,15,8261877339
+Wah Punjab,"Dadajee Complex, Ayappa Nagar, KR Puram, Bangalore",13.00062518,77.71448459,North Indian,3,Average,No,3,Zomato,15,8181302408
+Mondelice,"2, Gokul Mansion, Ayyappa Nagar, KR Puram Road, KR Puram, Bangalore",13.00259474,77.71244578,"Bakery, Desserts, Pizza",3,Average,No,3,Zomato,15,8526296032
+Bhagini,"11, ITPL Road, Hoodi Village, ITPL Main Road, Whitefield, Bangalore",12.989767,77.7127915,"Andhra, South Indian, Chinese, North Indian",2.5,Average,No,3,Zomato,15,7569408473
+Flavours Radha Hometel,"136/137, EPIP Industrial Area, Whitefield, Bangalore",12.9777832,77.7134176,"North Indian, Continental, Chinese, South Indian, Fast Food",2.4,Poor,No,3,Zomato,15,7482464974
+Rajgarh,"Palm Meadows Club, Ramagondana Halli, Varthur Road, Whitefield, Bangalore",12.9643051,77.7396158,"North Indian, South Indian",0,Not rated,No,3,Zomato,14,7323018249
+Hi-Fi Andhra Biriyani,"33, Hoodi Main Road, Ayyapa Nagar, KR Puram, Bangalore",13.00323209,77.71267913,"North Indian, Biryani, Andhra",0,Not rated,No,3,Zomato,14,8242483484
+Star Restaurant,"Immadihalli Main Road, Near KEB Office, Whitefield, Bangalore",12.96925648,77.75425371,"South Indian, North Indian, Chinese",0,Not rated,No,3,Zomato,14,7802890144
+Real Ambur Dum Biryani,"56/6, Borewell Road, Nellurahalli, Whitefield, Bangalore",12.9693753,77.7418952,"Biryani, Fast Food",0,Not rated,No,3,Zomato,15,8011306541
+Five Star Chicken,"Pai Layout Main Road, Anjappa Layout, B Narayanapura, Mahadevapura, Whitefield, Bangalore",12.9693736,77.7418606,"Fast Food, Burger",0,Not rated,No,3,Zomato,15,7445993634
+Foodie,"199, Panchayat Road, Near Hope Farm Junction, Whitefield, Bangalore",12.9693571,77.7418864,"Chinese, North Indian",0,Not rated,No,3,Zomato,15,8789472044
+Sweet Nothings Couture Cupcakes,"Near Hoodi Circle, Whitefield, Bangalore",12.9910477,77.715564,Desserts,0,Not rated,No,3,Zomato,14,8544311940
+Kanti Sweets,"125, Kundalahalli Village, CMRIT College, Whitefield, Bangalore",12.967473,77.714742,"Mithai, Street Food",0,Not rated,No,3,Zomato,14,8701858862
+Mayuri Delux Restaurant,"300, Poornima Complex, Whitefield Main Road, Whitefield, Bangalore",12.9699369,77.7499468,"Chinese, Indian, North Indian, South Indian",0,Not rated,No,3,Zomato,14,8867873695
+Roll Junction,"Near Hope Farm Signal, Kadugodi, Whitefield, Bangalore",12.9836182,77.7524949,"Fast Food, Rolls",0,Not rated,No,3,Zomato,14,8401991953
+Oak Tavern,"Palm Meadows Club, Airport Varthur Road, Ramagondanahalli, Whitefield, Bangalore",12.9642312,77.739639,"Continental, North Indian",0,Not rated,No,3,Zomato,14,7800292070
+Petit Crumbs,"Sterling Shalom Apartments, ITPL Main Road, Marathahalli, Bangalore",12.9708471,77.71457947,"Bakery, Desserts",0,Not rated,No,3,Zomato,14,7466411017
+Sai Foods,"1, Site 4, Arvind Avenue, Kundanhalli gate, Brookefield, Bangalore",12.9572851,77.7160559,North Indian,3.8,Good,No,4,Zomato,14,7672305722
+Tiffin Bar - Holiday Inn & Suites,"Holiday Inn & Suites Bangalore, 100/6, Varthur Main Road, Whitefield, Bangalore",12.9567069,77.7344384,"North Indian, Chinese, Thai, Asian, Fast Food",3.5,Good,No,4,Zomato,14,8645096223
+Tiffin Room - Holiday Inn & Suites,"Holiday Inn & Suites Bangalore, 100/6, Whitefield, Bangalore",12.9567176,77.7344594,"North Indian, South Indian, Asian",3.4,Average,No,4,Zomato,15,8450290977
+Zeee's,"Arcade, Brigade Metropolis, Mahadevapura, Whitefield, Bangalore",12.9919854,77.7028187,"Fast Food, Indian, Chinese",3.3,Average,No,4,Zomato,15,8595003025
+Mission Cafe,"The Arcade, Brigade Metropolis, Whitefield Road, Mahadevpura, Whitefield, Bangalore",12.9920317,77.7028634,Fast Food,3.3,Average,No,4,Zomato,15,7771560596
+Lemon Krust,"D 1102, Brigade Metropolis, Mahadevapura, Whitefield Main Road, Whitefield, Bangalore",12.9919391,77.702774,Bakery,3.2,Average,No,4,Zomato,15,8422743965
+Mr Iyer's,"73/136, Bridge Metropolis, Garudachpalya Main Road, Whitefield, Bangalore",12.9927427,77.7029529,"South Indian, Chinese",2.9,Average,No,4,Zomato,14,7324083109
+Delhi Walle,"9/9/1, Kundanahalli Gate, Whitefield, Bangalore",12.9556382,77.7192142,"North Indian, Street Food",2.5,Average,No,4,Zomato,15,7032118418
+VM Dhabha,"Opposite MVJ Engineering College, Channasandra Main Road, Whitefield, Bangalore",12.9826506,77.7618822,Fast Food,0,Not rated,No,4,Zomato,14,8516433816
+Jugo Fresh,"2, Muni Reddy Building, Shridhi Sai Temple Road, Kundanahalli, Marathahalli, Bangalore",12.95533375,77.71478735,"Juices, Beverages",0,Not rated,No,4,Zomato,15,8725570448
+Sai Foods,"43/4, Sai Temple Road, Near Family Mall, Marathahalli, Bangalore",12.95460577,77.71512866,North Indian,3.7,Good,No,5,Zomato,15,8961694924
+Kabab Mandra,"162/1B, Opposite Awho Project, Hoskote Main Road, Whitefield, Bangalore",13.0206506,77.7619716,"North Indian, Chinese, Rolls, Fast Food",3.3,Average,No,5,Zomato,15,8492263206
+Squeez Juice Bar,"2nd Floor, Food Court, Phoenix Market City Mall, Whitefield, Bangalore",12.9977483,77.6967809,"Juices, Fast Food",3.3,Average,No,5,Zomato,14,7969893110
+Jus Gola,"Soul Space Arena, Total Mall, Outer Ring Road, Marathahalli, Bangalore",12.97936379,77.69428622,Desserts,3.2,Average,No,5,Zomato,15,8873785224
+The Courtyard - Hotel Evoma,"Evoma, 14, Bhattarahalli, Near Garden City College, Old Madras Road, KR Puram, Bangalore",13.01916435,77.70838257,"Chinese, Continental, North Indian, Fast Food",3,Average,No,5,Zomato,15,8477621196
+Orchard Fresh,"2nd Floor, Food Court, Phoenix Market City, Mahadevpura Post, Whitefield, Bangalore",12.995541,77.695853,"Ice Cream, Desserts",3,Average,No,5,Zomato,15,7228078888
+Cafe Coffee Day Lounge,"94, SV Corner, Ground Floor, Marathahalli, Bangalore",12.96218151,77.70154528,"Cafe, Fast Food",2.9,Average,No,5,Zomato,14,7302098768
+Kailash Parbat,"Phoenix Market City, Whitefield, Bangalore",12.9979293,77.6968704,"North Indian, Street Food",2.7,Average,No,5,Zomato,14,7855780259
+Royal Chef's,"7, Puttappa Complex, Opposite HP Software, Mahdevapura Whitefield Main Road, Whitefield, Bangalore",12.9972765,77.6906086,"North Indian, South Indian",0,Not rated,No,5,Zomato,14,8292591962
+Honey Bee Foods,"15, Gangothri Complex, Near Garden City College, Bhatarahalli, KR Puram, Bangalore",13.023975,77.70662778,"Chinese, North Indian",0,Not rated,No,5,Zomato,15,8221218744
+Cocktail Garden,"25/1, Kithiganur Main Road, Near GCC College",13.02254722,77.70622222,"Beverages, Street Food",0,Not rated,No,5,Zomato,14,7848265893
+Curries And Pickles,"1, Ranka Reddy Complex, PWD Road, B Narayanpura",13.00679319,77.69258101,"Andhra, North Indian, Biryani",0,Not rated,No,5,Zomato,14,7163110314
+Thanco's Natural Ice Cream,,,,"Ice Cream, Desserts",3.9,,Yes,,Swiggy,3,7928782700
+Refresh,,,,Fast Food,3.6,,Yes,,Swiggy,4,7979571201
+The Chocolate Heaven,,,,"Jain, Cafe, Desserts, Continental, Italian, Fast Food",3.5,,Yes,,Swiggy,4,8346291114
+A2B Veg,,,,North Indian,3.5,,Yes,,Swiggy,4,8410039442
+Lassi Express,,,,"Desserts, Beverages",3.5,,Yes,,Swiggy,4,8564914151
+Chef's Baker,,,,Fast Food,3.5,,Yes,,Swiggy,4,8463882196
+Ants Cafe,,,,"Italian, Continental, Fast Food",3.5,,Yes,,Swiggy,4,7435079823
+Beyond Elements,,,,"North Indian, Jain, Pizzas, Continental, Fast Food",3.6,,Yes,,Swiggy,3,7618338438
+Hottey Smokey,,,,"Continental, Fast Food, Street Food",2.7,,Yes,,Swiggy,4,8872655367
+Cafesta,,,,"Cafe, Desserts, American, Continental",2.7,,Yes,,Swiggy,3,7492331038
+Au Bon Pain,,,,"Cafe, Beverages, Bakery",3,,Yes,,Swiggy,4,7237428540
+Whooppeezz,,,,"Street Food, Mexican, Italian, Desserts",3.4,,Yes,,Swiggy,4,8164256829
+The Tower Of Pizza,"Jeevan Bhima Nagar, Bangalore",,,"Pizza, Italian",2.6,,Yes,4,Zomato,4,8630327300
+The Moo Point,"100 Feet Road, Beside Park Avenue Showroom, Indiranagar, Ban",,,"Burger, Fast Food",3.4,,Yes,2,Zomato,4,8938353564
+Deshi Fusion Pizza,"23, New Binnamangala, 1st Stage, Old Madras Road, Bangalore",,,"Pizza, Italian",3.4,,Yes,3,Zomato,4,7613272042
+Hunger Patrol,"2, Manjunatha Layout, Munekula, Marathahalli, Bangalore",,,"North Indian, Chinese, Fast Food",3.1,,Yes,4,Zomato,4,7852463907
+Biryani Pot,"First Floor, 35/1B, Whitefield, Bangalore",,,Biryani,2.7,,Yes,2,Zomato,4,8202208599
+DinePost9,"Near Aiyappa Layout, Marathahalli, Bangalore",,,"North Indian, Chinese, Biryani",3.6,,Yes,4,Zomato,4,8771282578
+KK Night Restaurant,"CKB Layout, Marathahalli, Bangalore",,,"Fast Food, North Indian, Biryani, Chinese",NA,,Yes,5,Zomato,4,8453405807
+Night Panda,"Near Max Shoppee, Doddanekundi Main Road, Marathaha",,,"Fast Food, North Indian, Chinese",2.8,,Yes,1,Zomato,4,7093248158
+Spice Of Andhra,"12th Floor, Gamma Building, Whitefield, Bangalore",,,Andhra,NA,,Yes,2,Zomato,4,8596077841
+Owl's Kitchen,"5, Anjandri Krest Complex, Munnekolala, Marathahalli, Ban",,,"North Indian, Chinese",2.2,,Yes,3,Zomato,4,8487543002
+Midnight Hunger Project,Indira Nagar,,,"North Indian, South Indian, Chinese",NA,,Yes,5,Zomato,4,8909632261
+High n Hungry,"1st Floor, 35/1B, Whitefield, Bangalore",,,"North Indian, South Indian, Chinese, Fast Food",2.5,,Yes,4,Zomato,4,7237245674
+Night Food Joint,"Opposite Iris Inn, Mahadevpura, Near, Marathahalli, Bangalore",,,"North Indian, Chinese",2.3,,Yes,4,Zomato,4,8262755848
+Late Night,"602 A, Shop 1, 6th Stage, BEML Layout, Thubarahalli, Marathahalli, ",,,"North Indian, Chinese",2.7,,Yes,2,Zomato,4,8188834477
+Belly Doze,"Indiranagar, Bangalore",,,"North Indian, Mughlai, Chinese",NA,,Yes,2,Zomato,4,8209835856
+Bat Chef,"761, Ground Floor, B Type, 2nd Stage, Domlur, Bangalore",,,"Healthy Food, Continental, Burger, Fast Food, Desserts, Italian, North Indian",3.5,,Yes,5,Zomato,4,7645461061
+MPC's Shresta,"Shop 59, West Facing, 5th cross, Saraswathi Nagar, Marathahalli, ",,,"Biryani, Fast Food, Desserts, North Indian, Chinese, Salad, Ice Cream",2.7,,Yes,3,Zomato,4,8890794152
+Khabbu.com,"1211, Smr Vinay Endevour Hoodi Circle, Whitefield, Bangalore",,,North Indian,NA,,Yes,1,Zomato,4,7624000360
+Dawat Midnight Express,"# 1, SGR Dental Collage Road, Near Railway Gate, Munekolal",,,North Indian,NA,,Yes,4,Zomato,4,8327354997
+Night Punjabi Folk,"65, 7th Cross, Thigalarapaliya Hoody Garden, Mahadevapura Pos",,,"Continental, North Indian, Chinese",NA,,Yes,2,Zomato,4,7283224338
+Sunshadow.in,"Near Shell Petrol Station, Kaggadasapura, Bangalore",,,"North Indian, South Indian, Chinese",NA,,Yes,2,Zomato,4,8434917267
+Midnight Food Point,"35, Sri Maheshwari Nilaya, Behind Maheshwari Temple, Near More, ",,,"North Indian, Chinese, Mughlai",2.6,,Yes,2,Zomato,4,7486777209
+Little Chinese Hotel,"184, 9th Cross, Near SCT College, Vigna Nagar, Kaggadasapura, ",,,"Chinese, Thai",2.7,,Yes,5,Zomato,4,7898734256
+Shivu's Donne Biryani,"Chickka Devasandra, KR Puram, Bangalore",,,South Indian,NA,,Yes,5,Zomato,4,8305000065
+Mr Manchurian,soul space Arena mall Outer Ring Raod Doddanakundi Ban,,,Chinese,3.3,,Yes,3,Zomato,4,7280432666
+Melange - Hotel Park Plaza,"Hotel Park Plaza, 90/4, Outer Ring Road, Munnekollaly Village, M",,,"North Indian, Continental, Chinese, South Indian",3.8,,Yes,3,Zomato,4,8820476925
+M Cafe - Bengaluru Marriott Hotel Whitefield,"Bengaluru Marriott Hotel, 75, 8th Road, EPIP Area, Whitefield",,,"North Indian, South Indian, American",3.9,,Yes,4,Zomato,4,7054418965
+Karibu - The Zuri,"The Zuri Hotels, 244 Hoody Village, Rajapalya, ITPL Road, Whitefield",,,"North Indian, Continental",3.6,,Yes,3,Zomato,4,8550464236
+Crunch Pizzas,"712, 6th Cross, 5th Main, Off 80 Feet Road, Indiranagar, Ban",,,"Italian, Pizza",3.4,,Yes,3,Zomato,4,7648991855
+Limelight - Royal Orchid Hotel,"Royal Orchid Hotel, 1, Golf Arcade, HAL, Old Airport Road, Bangalore",,,"Continental, North Indian",3.5,,Yes,3,Zomato,4,7864423416
+20 Char - Sterlings MAC Hotel,"Matthan Hotel, 134, HAL Old Airport Road, Old Airport Road",,,"Chinese, Continental, North Indian, South Indian, Arabian",3.5,,Yes,1,Zomato,4,8183948709
+Tiffin Room - Holiday Inn & Suites,"Holiday Inn & Suites Bangalore, 100/6, Whitefield, Bangalo",,,"North Indian, South Indian, Asian",3.4,,Yes,5,Zomato,4,7031145987
+The Eatery - Four Points by Sheraton Bengaluru,"Four Points by Sheraton Bengaluru, 43/3, Whitefield Main Road, Whitefield",,,"Continental, North Indian",3.6,,Yes,2,Zomato,4,7859982851
+Cafe Palmyra,"Palm Meadows Club, Ramagondana Halli, Varthur Road, Whitefield",,,"Chinese, North Indian, Continental",3.8,,Yes,5,Zomato,4,8135075825
+re:cess,"Hilton Bangalore Embassy GolfLinks, Embassy Golf Links Busine",,,"South Indian, North Indian, Continental, European",3.6,,Yes,5,Zomato,4,7741150099
+Latitude - Vivanta By Taj,"Vivanta By Taj, ITPB, Whitefield, Bangalore",,,"North Indian, Continental, Asian, Italian",3.6,,Yes,4,Zomato,4,7771525266
+Chez Nous - Novotel,"Novotel Bengaluru Techpark, Opposite RMZ Ecospace Busin",,,"European, French, North Indian",3.6,,Yes,5,Zomato,4,8670144744
+Ackley Kitchen,"29/2, 3rd Main Road, 2nd 'B' Cross, Nagappa Reddy Layout, Kagg",,,"Burger, Continental, Italian, Beverages",3.4,,Yes,5,Zomato,4,8424966995
+Midnight Hunger Solutions 24/7,"17, 17th F Main, CMH Road, Indiranagar, Bangalore",,,"North Indian, Mughlai, Chinese",1.9,,Yes,2,Zomato,4,8475149879
+Citrus Cafe - Lemon Tree Hotel,"Lemon Tree Hotel, 23, EPIP Zone, Near I Gate Company, Whitefield, Bangalore",,,"North Indian, Continental, South Indian, Asian",3.5,,Yes,2,Zomato,4,7070161968
+Zodiac,"Fortune Select Trinity, 134/136, EPIP Area Road-1, Whitefield, Bangal",,,"Italian, Mexican, Mediterranean, North Indian, Continental",2.8,,Yes,2,Zomato,4,8010673869
+Grab n Go - Aloft Hotel,"Aloft Hotel, 17C, Sadaramangala Road, Whitefield, Bangal",,,"American, Fast Food",2.9,,Yes,2,Zomato,4,8901687768
+Utopia,"5, Ajandri Crest Shopping Complex, Beside Axis Bank ATM, Ne",,,"North Indian, Chinese",2.4,,Yes,3,Zomato,4,7553388165
+Brunch Pizza,"Near Indiranagar Metro Station, Indiranagar, Bangalore",,,Pizza,2.6,,Yes,5,Zomato,4,7787872548
+La Mirch,"21, Goshala Road, Ferns City, Doddanekkundi, Marathahalli, ",,,North Indian,NA,,Yes,4,Zomato,4,8826899721
+Jhanhavi Restaurant,"CKB Layout Munnekolala, Marathahalli, Bangalore",,,"North Indian, Chinese",NA,,Yes,1,Zomato,4,7331895936
+Walk - N - Rolls,"No. 27, 16th Cross, CMH Road, Lakshmipuram, Halasuru, Indiran",,,"Biryani, Pizza, Street Food, Rolls",NA,,Yes,3,Zomato,4,8296862418
+Leaf It To Me,"180, 4th Main Road, Stage 2, Domlur, Bangalore",,,"Healthy Food, Beverages",NA,,Yes,2,Zomato,4,8268033720
